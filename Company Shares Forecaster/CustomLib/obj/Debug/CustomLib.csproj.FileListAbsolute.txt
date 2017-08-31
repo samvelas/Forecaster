@@ -1,0 +1,10 @@
+C:\Users\mrasa\Desktop\Company Shares Forecaster\CustomLib\bin\Debug\CustomLib.dll
+C:\Users\mrasa\Desktop\Company Shares Forecaster\CustomLib\bin\Debug\CustomLib.pdb
+C:\Users\mrasa\Desktop\Company Shares Forecaster\CustomLib\obj\Debug\CustomLib.csprojResolveAssemblyReference.cache
+C:\Users\mrasa\Desktop\Company Shares Forecaster\CustomLib\obj\Debug\CustomLib.dll
+C:\Users\mrasa\Desktop\Company Shares Forecaster\CustomLib\obj\Debug\CustomLib.pdb
+C:\Users\mrasa\Desktop\Курсовая\Company Shares Forecaster\CustomLib\bin\Debug\CustomLib.dll
+C:\Users\mrasa\Desktop\Курсовая\Company Shares Forecaster\CustomLib\bin\Debug\CustomLib.pdb
+C:\Users\mrasa\Desktop\Курсовая\Company Shares Forecaster\CustomLib\obj\Debug\CustomLib.csprojResolveAssemblyReference.cache
+C:\Users\mrasa\Desktop\Курсовая\Company Shares Forecaster\CustomLib\obj\Debug\CustomLib.dll
+C:\Users\mrasa\Desktop\Курсовая\Company Shares Forecaster\CustomLib\obj\Debug\CustomLib.pdb

@@ -1,0 +1,10 @@
+C:\Users\mrasa\Desktop\Company Shares Forecaster\Company Shares Forecaster\bin\Release\Company Shares Forecaster.exe.config
+C:\Users\mrasa\Desktop\Company Shares Forecaster\Company Shares Forecaster\bin\Release\Company Shares Forecaster.exe
+C:\Users\mrasa\Desktop\Company Shares Forecaster\Company Shares Forecaster\bin\Release\Company Shares Forecaster.pdb
+C:\Users\mrasa\Desktop\Company Shares Forecaster\Company Shares Forecaster\bin\Release\CustomLib.dll
+C:\Users\mrasa\Desktop\Company Shares Forecaster\Company Shares Forecaster\bin\Release\CustomLib.pdb
+C:\Users\mrasa\Desktop\Company Shares Forecaster\Company Shares Forecaster\obj\Release\Company_Shares_Forecaster.Forecaster.resources
+C:\Users\mrasa\Desktop\Company Shares Forecaster\Company Shares Forecaster\obj\Release\Company_Shares_Forecaster.Properties.Resources.resources
+C:\Users\mrasa\Desktop\Company Shares Forecaster\Company Shares Forecaster\obj\Release\Company Shares Forecaster.csproj.GenerateResource.Cache
+C:\Users\mrasa\Desktop\Company Shares Forecaster\Company Shares Forecaster\obj\Release\Company Shares Forecaster.exe
+C:\Users\mrasa\Desktop\Company Shares Forecaster\Company Shares Forecaster\obj\Release\Company Shares Forecaster.pdb

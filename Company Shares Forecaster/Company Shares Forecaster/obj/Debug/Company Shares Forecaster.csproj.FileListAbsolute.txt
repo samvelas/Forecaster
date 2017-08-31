@@ -1,0 +1,22 @@
+C:\Users\mrasa\Desktop\Company Shares Forecaster\Company Shares Forecaster\bin\Debug\Company Shares Forecaster.exe.config
+C:\Users\mrasa\Desktop\Company Shares Forecaster\Company Shares Forecaster\bin\Debug\Company Shares Forecaster.exe
+C:\Users\mrasa\Desktop\Company Shares Forecaster\Company Shares Forecaster\bin\Debug\Company Shares Forecaster.pdb
+C:\Users\mrasa\Desktop\Company Shares Forecaster\Company Shares Forecaster\obj\Debug\Company_Shares_Forecaster.Forecaster.resources
+C:\Users\mrasa\Desktop\Company Shares Forecaster\Company Shares Forecaster\obj\Debug\Company_Shares_Forecaster.Properties.Resources.resources
+C:\Users\mrasa\Desktop\Company Shares Forecaster\Company Shares Forecaster\obj\Debug\Company Shares Forecaster.csproj.GenerateResource.Cache
+C:\Users\mrasa\Desktop\Company Shares Forecaster\Company Shares Forecaster\obj\Debug\Company Shares Forecaster.exe
+C:\Users\mrasa\Desktop\Company Shares Forecaster\Company Shares Forecaster\obj\Debug\Company Shares Forecaster.pdb
+C:\Users\mrasa\Desktop\Company Shares Forecaster\Company Shares Forecaster\bin\Debug\CustomLib.dll
+C:\Users\mrasa\Desktop\Company Shares Forecaster\Company Shares Forecaster\bin\Debug\CustomLib.pdb
+C:\Users\mrasa\Desktop\Company Shares Forecaster\Company Shares Forecaster\obj\Debug\Company Shares Forecaster.csprojResolveAssemblyReference.cache
+C:\Users\mrasa\Desktop\Курсовая\Company Shares Forecaster\Company Shares Forecaster\bin\Debug\Company Shares Forecaster.exe.config
+C:\Users\mrasa\Desktop\Курсовая\Company Shares Forecaster\Company Shares Forecaster\bin\Debug\Company Shares Forecaster.exe
+C:\Users\mrasa\Desktop\Курсовая\Company Shares Forecaster\Company Shares Forecaster\bin\Debug\Company Shares Forecaster.pdb
+C:\Users\mrasa\Desktop\Курсовая\Company Shares Forecaster\Company Shares Forecaster\bin\Debug\CustomLib.dll
+C:\Users\mrasa\Desktop\Курсовая\Company Shares Forecaster\Company Shares Forecaster\bin\Debug\CustomLib.pdb
+C:\Users\mrasa\Desktop\Курсовая\Company Shares Forecaster\Company Shares Forecaster\obj\Debug\Company_Shares_Forecaster.Forecaster.resources
+C:\Users\mrasa\Desktop\Курсовая\Company Shares Forecaster\Company Shares Forecaster\obj\Debug\Company_Shares_Forecaster.Properties.Resources.resources
+C:\Users\mrasa\Desktop\Курсовая\Company Shares Forecaster\Company Shares Forecaster\obj\Debug\Company Shares Forecaster.csproj.GenerateResource.Cache
+C:\Users\mrasa\Desktop\Курсовая\Company Shares Forecaster\Company Shares Forecaster\obj\Debug\Company Shares Forecaster.exe
+C:\Users\mrasa\Desktop\Курсовая\Company Shares Forecaster\Company Shares Forecaster\obj\Debug\Company Shares Forecaster.pdb
+C:\Users\mrasa\Desktop\Курсовая\Company Shares Forecaster\Company Shares Forecaster\obj\Debug\Company Shares Forecaster.csprojResolveAssemblyReference.cache
